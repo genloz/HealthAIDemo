@@ -1,0 +1,8 @@
+Django
+whitenoise
+azure-ai-textanalytics
+azure-search-documents
+azure-appconfiguration-provider
+azure-identity
+azure-keyvault-secrets
+openai
