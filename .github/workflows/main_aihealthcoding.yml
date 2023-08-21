@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'aihealthcoding'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FB5550C849B64DC18E4188879498376D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F2934F9D1FD84F43A587B0FE8832BC08 }}
