@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'snomedmbs'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_85966618641048CCA94C5318F14DB77D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9F8730CDCA2E4AF0B8CFDDAA08734801 }}
